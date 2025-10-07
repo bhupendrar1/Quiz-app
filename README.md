@@ -25,6 +25,3 @@ This project tests users with multiple-choice questions, tracks their scores, an
 
   - 🧩 Leaderboard using localStorage or backend
 
-  - 🎨 Theme switcher (dark/light mode)
-
-  - 📱 Progressive Web App (PWA) support
