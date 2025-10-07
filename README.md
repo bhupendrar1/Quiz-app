@@ -25,3 +25,15 @@ This project tests users with multiple-choice questions, tracks their scores, an
 
   - 🧩 Leaderboard using localStorage or backend
 
+📚 Learning Goals
+
+This project helped in understanding:
+
+  - DOM interactions and dynamic updates
+
+  - Event-driven programming
+
+   - Structuring JS code for scalability
+
+   - Building real-world frontend logic
+
